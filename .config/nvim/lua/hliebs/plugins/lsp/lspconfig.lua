@@ -17,6 +17,7 @@ return {
 		servers = {
 			lua_ls = {},
 			nixd = {},
+			marksman = {},
 
 			--[[
 			csharp_ls = {},
